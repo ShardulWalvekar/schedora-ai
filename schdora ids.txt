@@ -1,0 +1,8 @@
+zoom client id= UhyRqMAVRNWyPb9CraqU9g
+
+zoom secret id =Y2hx6AgmV58rjrC71jBCkTR89gMFxHsj
+
+To connect to Supabase:
+Update .env with your Supabase URL and anon key
+Run the SQL schema from supabase/migrations/001_initial_schema.sql
+Enable Google OAuth in Supabase Dashboard
